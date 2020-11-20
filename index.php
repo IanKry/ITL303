@@ -13,7 +13,7 @@
 	<div id="main">
 	
 		<div id="header">
-			<h1> ITC101 </h1>
+			<h1> ITL303 </h1>
 			<ul>
 				<li><a href="">Home</a></li>
 				<li><a href="Activities/index.php">Activities</a></li>
