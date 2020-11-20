@@ -14,7 +14,7 @@
         <img id = "c4" src="svgs/Corner.svg">
 
         <div class="header">
-           <img id="hback" src="svgs/Hback.svg"> 
+           <img id="hback" src="svgs/hback.svg"> 
            <img id="honey" src="svgs/honey.svg"> 
            <img id="bee" src="svgs/bee.svg"> 
            <img id="floom" src="svgs/floom.svg">
