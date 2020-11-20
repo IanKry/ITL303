@@ -27,10 +27,10 @@
 <div id="act">
 	<div id="prelim">
 		<h1> GITHUB</h1>
-		<a href=""><h2>PRELIM EXAM</a></h2>
+		<a href="https://github.com/IanKry/ITL303/tree/main/prelim"><h2>PRELIM EXAM</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>MIDTERM EXAM</a></h2>
+		<a href="https://github.com/IanKry/ITL303/tree/main/midterm"><h2>MIDTERM EXAM</a></h2>
 		<br>
 		<br>
 		<a href=""><h2>BLANK</a></h2>
