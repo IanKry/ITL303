@@ -33,7 +33,7 @@
 		<a href="https://github.com/IanKry/ITL303/tree/main/midterm"><h2>MIDTERM EXAM</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>BLANK</a></h2>
+		<a href="https://github.com/IanKry/ITL303/tree/main/JSart"><h2>Learning Task 7.1 </a></h2>
 	</div>
 	
 	<div id="midterm">
