@@ -12,7 +12,7 @@
       </style>
 <body>
     
-    <a href="../github/index.html">Github</a>
+    <a href="../github/index.php">Github</a>
 <div class="container">
     <canvas id="art1" width="200" height="200"></canvas>
     <canvas id="art2" width="200" height="200"></canvas>
