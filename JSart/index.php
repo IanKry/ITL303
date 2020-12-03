@@ -4,17 +4,16 @@
         <title> Learning Task 7.1 </title>
     </head>
     <style>
-        body {
+        .container {
           margin: 50px auto;
           width: 1000px;
 
         }
-        canvas{
-            border: 1px solid black;
-        }
       </style>
 <body>
-
+    
+    <a href="../github/index.html">Github</a>
+<div class="container">
     <canvas id="art1" width="200" height="200"></canvas>
     <canvas id="art2" width="200" height="200"></canvas>
     <canvas id="art3" width="200" height="200"></canvas>
@@ -23,6 +22,7 @@
     <canvas id="art6" width="200" height="200"></canvas>
     <canvas id="art7" width="200" height="200"></canvas>
     <canvas id="art8" width="200" height="200"></canvas>
+    </div>
 </body>
 
 </html>
