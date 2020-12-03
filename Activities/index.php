@@ -33,7 +33,7 @@
 		<a href="../midterm/index.php"><h2>MIDTERM EXAM</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>BLANK</a></h2>
+		<a href="../JSart/index.php"><h2>Learning Task 7.1</a></h2>
 	</div>
 	
 	<div id="midterm">
